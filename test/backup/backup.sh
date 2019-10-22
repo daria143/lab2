@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hello give me more ball, plz"
+ech "hello give me more ball, plz"
 ls
 
 ls -l
